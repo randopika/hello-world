@@ -1,2 +1,4 @@
 # hello-world
-my first repository
+my first (and perhaps my last) repository
+
+I guess I like tacos.
